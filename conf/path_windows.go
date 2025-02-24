@@ -50,7 +50,7 @@ func RootDirectory(create bool) (string, error) {
 	if err != nil {
 		return "", err
 	}
-	root = filepath.Join(root, "Euphoria")
+	root = filepath.Join(root, "AmneziaWG")
 	if !create {
 		return filepath.Join(root, "Data"), nil
 	}
