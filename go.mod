@@ -3,8 +3,8 @@ module github.com/amnezia-vpn/euphoria-windows
 go 1.24
 
 require (
-	github.com/amnezia-vpn/euphoria v0.1.0
-	golang.org/x/crypto v0.34.0
+	github.com/amnezia-vpn/euphoria v0.1.1
+	golang.org/x/crypto v0.35.0
 	golang.org/x/sys v0.30.0
 	golang.org/x/text v0.22.0
 )
